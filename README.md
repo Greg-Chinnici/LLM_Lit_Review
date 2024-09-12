@@ -1,6 +1,14 @@
 # LLM_Lit_Review
 using Claude 3.5 Sonnet and Claude 3
 ### Concepts
+- [LLM_Lit_Review](#llm_lit_review)
+  - [Concepts](#concepts)
+  - [Refrences](#refrences)
+  - [Review from the AI](#review-from-the-ai)
+  - [In Depth of Topics](#in-depth-of-topics)
+    - [Mechanism Design](#mechanism-design)
+    - [Price of Anarchy](#price-of-anarchy)
+    - [Computational Social Choice](#computational-social-choice)
 ## Refrences
 ## Review from the AI
 Algorithmic Game Theory (AGT) is an fascinating field at the intersection of computer science, economics, and mathematics. It studies strategic interactions in computational settings. Here's a deeper dive into this topic:
