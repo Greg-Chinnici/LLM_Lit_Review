@@ -1,5 +1,5 @@
 # LLM_Lit_Review
-using Claude 3.5 Sonnet and Claude 3
+using Claude 3.5 Sonnet
 ### Concepts
 - [LLM_Lit_Review](#llm_lit_review)
   - [Concepts](#concepts)
@@ -11,7 +11,7 @@ using Claude 3.5 Sonnet and Claude 3
     - [Computational Social Choice](#computational-social-choice)
 ## Refrences
 ## Review from the AI
-Algorithmic Game Theory (AGT) is an fascinating field at the intersection of computer science, economics, and mathematics. It studies strategic interactions in computational settings. Here's a deeper dive into this topic:
+Algorithmic Game Theory (AGT) is an fascinating field at the intersection of computer science, economics, and mathematics. It studies strategic interactions in computational settings.
 
 1. Core Concepts:
    - AGT combines principles from game theory with computational techniques.
@@ -108,3 +108,11 @@ d) Resource Allocation in Public Policy:
 e) Ethical AI Decision Making:
    - Creating frameworks for AI systems to make decisions that align with diverse human values and preferences.
    - Applicable in autonomous vehicles, healthcare triage, and AI-assisted policy making.
+## Researchers
+Yoav Shoham (Stanford University)
+- Work on multi-agent systems and the foundations of artificial intelligence
+- Co-author of "Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations"
+
+Éva Tardos (Cornell University)
+- Known for her work on algorithm design and optimization in networks
+- Contributions to the price of anarchy and selfish routing
