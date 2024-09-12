@@ -9,6 +9,7 @@ using Claude 3.5 Sonnet
     - [Mechanism Design](#mechanism-design)
     - [Price of Anarchy](#price-of-anarchy)
     - [Computational Social Choice](#computational-social-choice)
+  - [Researchers](#researchers)
 ## Refrences
 ## Review from the AI
 Algorithmic Game Theory (AGT) is an fascinating field at the intersection of computer science, economics, and mathematics. It studies strategic interactions in computational settings.
@@ -108,7 +109,9 @@ d) Resource Allocation in Public Policy:
 e) Ethical AI Decision Making:
    - Creating frameworks for AI systems to make decisions that align with diverse human values and preferences.
    - Applicable in autonomous vehicles, healthcare triage, and AI-assisted policy making.
+
 ## Researchers
+
 Yoav Shoham (Stanford University)
 - Work on multi-agent systems and the foundations of artificial intelligence
 - Co-author of "Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations"
