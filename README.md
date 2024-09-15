@@ -1,16 +1,19 @@
 # LLM_Lit_Review
 using Claude 3.5 Sonnet
-### Concepts
-- [LLM_Lit_Review](#llm_lit_review)
-  - [Concepts](#concepts)
-  - [Refrences](#refrences)
-  - [Review from the AI](#review-from-the-ai)
-  - [In Depth of Topics](#in-depth-of-topics)
-    - [Mechanism Design](#mechanism-design)
-    - [Price of Anarchy](#price-of-anarchy)
-    - [Computational Social Choice](#computational-social-choice)
-  - [Researchers](#researchers)
+### Contents
+- [Refrences](#refrences)
+- [Review from the AI](#review-from-the-ai)
+- [In Depth of Topics](#in-depth-of-topics)
+  - [Mechanism Design](#mechanism-design)
+  - [Price of Anarchy](#price-of-anarchy)
+  - [Computational Social Choice](#computational-social-choice)
+- [Researchers](#researchers)
+- [Summary](#summary)
 ## Refrences
+- [AGT , Wikipedia](https://en.wikipedia.org/wiki/Algorithmic_game_theory)
+- [Price of Anarchy, Wikipedia](https://en.wikipedia.org/wiki/Price_of_anarchy)
+- [Multi Agent Reinforcement Learning, Wikipedia](https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning)
+
 ## Review from the AI
 Algorithmic Game Theory (AGT) is an fascinating field at the intersection of computer science, economics, and mathematics. It studies strategic interactions in computational settings.
 
@@ -48,7 +51,7 @@ These applications demonstrate how Algorithmic Game Theory provides powerful too
 
 ### Mechanism Design
 
-Mechanism design is about creating rules for games or economic systems that lead to desired outcomes. Its applications include:
+Mechanism design is about creating rules for games or economic systems that lead to desired outcomes. Think of it like playing game selfishly, only caring about getting a win.  Its applications include:
 
 a) Online Advertising Auctions:
    - Companies like Google and Facebook use sophisticated auction mechanisms to sell ad space.
@@ -119,3 +122,8 @@ Yoav Shoham (Stanford University)
 Éva Tardos (Cornell University)
 - Known for her work on algorithm design and optimization in networks
 - Contributions to the price of anarchy and selfish routing
+
+## Summary
+Algorithmic Game Theory is a very important intersection of Math, Computer Science, and Econ. It focuses on designing algorithms and environments that benefit many different self interested users.
+Looking into ideas such as Mechanism Design, Price of Anarchy, and Computational Social Choice. We can see how to design for certain outcomes and the negative impacts of a chaotic system.
+Because search suggestions are created and maintained by only a few companies, most people may find it hard to get information that they need out of the internet. Not to mention with the new AI search summaries that search engines are releasing, they can get the context wrong or dissuade the user from going to the actual source material.
